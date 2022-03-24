@@ -3,6 +3,7 @@
   "version": "0.8.0",
   "description": "A lightweight polyfill library for Promise-based WebExtension APIs in Chrome.",
   "main": "src/browser-polyfill.js",
+  "types": "types/index.d.ts",
   "files": [
     "dist"
   ],
