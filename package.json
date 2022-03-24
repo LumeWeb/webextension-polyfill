@@ -1,8 +1,8 @@
 {
-  "name": "webextension-polyfill",
+  "name": "@lumeweb/webextension-polyfill",
   "version": "0.8.0",
   "description": "A lightweight polyfill library for Promise-based WebExtension APIs in Chrome.",
-  "main": "dist/browser-polyfill.js",
+  "main": "src/browser-polyfill.js",
   "files": [
     "dist"
   ],
