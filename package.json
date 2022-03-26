@@ -59,7 +59,7 @@
   },
   "scripts": {
     "build": "grunt",
-    "prepublish": "npm run build",
+    "prepublish": "",
     "test": "mocha",
     "test-coverage": "cross-env COVERAGE=y nyc mocha",
     "test-minified": "cross-env TEST_MINIFIED_POLYFILL=1 mocha",
