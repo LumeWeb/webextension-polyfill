@@ -5,7 +5,7 @@
   "main": "src/browser-polyfill.js",
   "types": "types/index.d.ts",
   "files": [
-    "dist"
+    "api-metadata.json"
   ],
   "repository": {
     "type": "git",
